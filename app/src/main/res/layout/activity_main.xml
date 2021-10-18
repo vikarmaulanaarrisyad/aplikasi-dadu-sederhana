@@ -13,14 +13,14 @@
 
         <ImageView
             android:id="@+id/imagedice"
-            android:layout_marginTop="60dp"
+            android:layout_marginTop="150dp"
             android:layout_width="197dp"
             android:layout_height="121dp"
             app:srcCompat="@drawable/dice_2" />
 
         <ImageView
             android:id="@+id/image_dice"
-            android:layout_marginTop="60dp"
+            android:layout_marginTop="150dp"
             android:layout_width="197dp"
             android:layout_height="121dp"
             android:src="@drawable/dice_1" />
@@ -36,7 +36,7 @@
             android:id="@+id/button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="200dp"
+            android:layout_marginTop="300dp"
             android:layout_gravity="center"
             android:text="Roll Dice" />
     </LinearLayout>
